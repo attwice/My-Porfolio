@@ -33,21 +33,21 @@ function Home() {
 
             <Col md={7} style={{ paddingBottom: 20 }}>
               <Carousel fade>
-                <Carousel.Item interval={5390}>
+                <Carousel.Item interval={5450}>
                   <img
                     className="d-block w-100 sliderimg"
                     src="../slider1.webp"
                     alt="First slide"
                   />
                 </Carousel.Item>
-                <Carousel.Item interval={5390}>
+                <Carousel.Item interval={5450}>
                   <img
                     className="d-block w-100 sliderimg"
                     src="../slider2.webp"
                     alt="Second slide"
                   />
                 </Carousel.Item>
-                <Carousel.Item interval={5390}>
+                <Carousel.Item interval={5450}>
                   <img
                     className="d-block w-100 sliderimg"
                     src="../slider3.webp"
