@@ -36,21 +36,21 @@ function Home() {
                 <Carousel.Item interval={5390}>
                   <img
                     className="d-block w-100 sliderimg"
-                    src="../slider1.png"
+                    src="../slider1.webp"
                     alt="First slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item interval={5390}>
                   <img
                     className="d-block w-100 sliderimg"
-                    src="../slider2.png"
+                    src="../slider2.webp"
                     alt="Second slide"
                   />
                 </Carousel.Item>
                 <Carousel.Item interval={5390}>
                   <img
                     className="d-block w-100 sliderimg"
-                    src="../slider3.png"
+                    src="../slider3.webp"
                     alt="Third slide"
                   />
                 </Carousel.Item>

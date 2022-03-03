@@ -47,7 +47,7 @@ function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <img src="../lancer-s.png" alt="" />
+                <img src="../lancer-s.webp" alt="" />
               </a>
             </li>
             <li className="social-icons">

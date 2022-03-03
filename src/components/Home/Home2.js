@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.png";
+import myImg from "../../Assets/avatar.webp";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -91,7 +91,7 @@ function Home2() {
                 >
                   <img
                     className="home-social-icons"
-                    src="../lancer.png" alt="" />
+                    src="../lancer.webp" alt="" />
                 </a>
               </li>
               <li className="social-icons">

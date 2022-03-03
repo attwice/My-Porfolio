@@ -30,7 +30,7 @@ function ResumeNew() {
         </Row>
 
         <Row className="p-5">
-          <img className="resumeimg" src="../Bryan.png" alt="" />
+          <img className="resumeimg" src="../Bryan.webp" alt="" />
           <Document file={resumeLink}>
             <Page pageNumber={1} scale={width > 1000 ? 0 : 0.2} />
           </Document>
