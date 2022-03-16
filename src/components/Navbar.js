@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://www.freelancer.com/freelancers/skills/illustration-react-js-blockchain-non-fungible-tokens?w=f&ngsw-bypass="
+                href="https://www.freelancer.com/freelancers/skills/react-js-blockchain-react-js-framework-non-fungible-tokens?w=f&ngsw-bypass="
                 target="_blank"
                 rel="noreferrer"
               >
