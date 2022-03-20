@@ -21,6 +21,7 @@ function Home2() {
               I am a proactive and passionate developer.
               <br />
               <br />
+              <h3 className="purple">Top 2% React.js Developer</h3>
               I am a senior Web front-end developer with strong skills and mature experience in modern web development.
               I have hands-on experience in building highly customized web applications based on Javascript such as
               <i>
@@ -28,6 +29,7 @@ function Home2() {
               </i>
               <br />
               <br />
+              <h3 className="purple">Top 3% NFT Developer</h3>
               Last several years, a remarkable advance was made in Blockchain and crypto fields. Including &nbsp;
               <i>
                 <b className="purple">Defi, Dapp and Market Place building</b> and
