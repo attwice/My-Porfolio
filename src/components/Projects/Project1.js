@@ -16,7 +16,7 @@ function Project1() {
           <h5 className="text-white text-left pt-4">
             Founded by parents, "NatureBond" symbolizes the love we have for our little ones.
           </h5>
-          <h5 className="py-4 text-left">
+          <h5 className="py-5 text-left">
             <li>Shopify</li>
             <li>Fontawesome</li>
             <li>jQuery</li>

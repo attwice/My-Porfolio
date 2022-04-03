@@ -26,7 +26,7 @@ function Home() {
                 <strong className="main-name"> Bryan Usi C</strong>
               </h1>
 
-              <div style={{ padding: 20, textAlign: "left" }}>
+              <div className="type-font pb-5 pt-2">
                 <Type />
               </div>
             </Col>

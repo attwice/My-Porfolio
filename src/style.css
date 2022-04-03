@@ -269,14 +269,71 @@ html {
 }
 
 .heading {
-  font-size: 4em !important;
+  font-size: 3em !important;
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+@media (max-width: 1400px) {
+  .heading {
+    font-size: 2em !important;
+  }
+}
+
+@media (max-width: 996px) {
+  .heading {
+    font-size: 1.5em !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .heading {
+    font-size: 2em !important;
+  }
+}
+
 .heading-name {
   font-size: 2em !important;
-  padding-left: 20px !important;
+  /* padding-left: 20px !important; */
+}
+
+@media (max-width: 1400px) {
+  .heading-name {
+    font-size: 1.5em !important;
+  }
+}
+
+.type-font {
+  font-size: 16px;
+}
+
+@media (max-width: 1400px) {
+  .type-font {
+    font-size: 15px !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .type-font {
+    font-size: 10px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .type-font {
+    font-size: 16px !important;
+  }
+}
+
+.btn-primary {
+  font-size: 16px !important;
+  min-width: 90px;
+}
+
+@media (max-width: 1000px) {
+  .btn-primary {
+    font-size: 12px !important;
+  }
 }
 
 .main-name {

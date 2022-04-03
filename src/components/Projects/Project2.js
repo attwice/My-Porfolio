@@ -48,7 +48,7 @@ function Project2() {
           <h5 className="text-white text-left pt-4">
             Advanced design & Quality Appareal made easy. Easy to use with shopify design.
           </h5>
-          <h5 className="py-4 text-left">
+          <h5 className="py-5 text-left">
             <li>Shopify</li>
             <li>Animate.css</li>
             <li>jQuery</li>

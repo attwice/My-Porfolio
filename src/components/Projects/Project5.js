@@ -16,7 +16,7 @@ function Project5() {
           <h5 className="text-white text-left pt-4">
             Honey Bee's Smart design and animation.
           </h5>
-          <h5 className="py-4 text-left">
+          <h5 className="py-5 text-left">
             <li>React.js</li>
             <li>Vue.js</li>
             <li>Smart Contract</li>

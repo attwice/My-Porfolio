@@ -16,12 +16,12 @@ function Project11() {
           <h5 className="text-white text-left pt-4">
             Detail-oriented modeling and photorealistic rendering. Smart textures and shaders.
           </h5>
-          <h5 className="py-4 text-left">
+          <h5 className="py-5 text-left">
             <li>Autodesk 3Ds Max</li>
             <li>Autodesk Maya</li>
             <li>Blender</li>
           </h5>
-          <a href="http://cornichewatches.com/" target="_blank" rel="noreferrer" className="linkbtn justify-content-center mx-auto">
+          <a href="http://cornichewatches.com/" target="_blank" rel="noreferrer" className="linkbtn justify-content-center mx-auto mt-4">
             <Button className="btn-primary mb-2">Show project</Button>
           </a>
         </Col>

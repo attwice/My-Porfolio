@@ -17,7 +17,7 @@ function Project9() {
             Multi-platform and realistic simulation.
             Fully functioned and optimization.
           </h5>
-          <h5 className="py-4 text-left">
+          <h5 className="py-5 text-left">
             <li>Unity 3D</li>
             <li>C#</li>
             <li>Shader Script</li>

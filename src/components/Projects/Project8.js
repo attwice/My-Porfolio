@@ -49,7 +49,7 @@ function Project8() {
             Client's idea-based and competitable with BAYC. 100+ art traits and rarity building.
             Perfect NFTs and metadata.
           </h5>
-          <h5 className="py-4 text-left">
+          <h5 className="py-5 text-left">
             <li>Sketch and concep art design</li>
             <li>Prototype NFT and traits design</li>
             <li>10K NFT and metadata generation</li>

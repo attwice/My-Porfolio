@@ -48,7 +48,7 @@ function Project10() {
           <h5 className="text-white text-left pt-4">
             Lowpoly modeling and optimized design. Smart game texturing and shading.
           </h5>
-          <h5 className="py-4 text-left">
+          <h5 className="py-5 text-left">
             <li>Autodesk 3Ds Max</li>
             <li>Autodesk Maya</li>
             <li>Blender</li>
