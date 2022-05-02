@@ -1,6 +1,6 @@
 import React from "react";
 import { Container} from "react-bootstrap";
-import Particle from "../Particle";
+// import Particle from "../Particle";
 import Project1 from "./Project1";
 import Project2 from "./Project2";
 import Project3 from "./Project3";
@@ -16,7 +16,7 @@ import Project11 from "./Project11";
 function Projects() {
   return (
     <Container fluid className="project-section">
-      <Particle />
+       
       <Project1 />
       <Project2 />
       <Project3 />

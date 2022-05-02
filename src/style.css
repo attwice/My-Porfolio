@@ -811,3 +811,13 @@ html {
   bottom: 0px;
   right: 140px;
 }
+
+.review {
+  margin-top: 50px;
+  color: white;
+  text-align: left;
+}
+
+.review-title {
+  margin-top: 200px;
+}

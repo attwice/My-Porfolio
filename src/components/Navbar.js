@@ -6,12 +6,13 @@ import logo from "../Assets/logo.webp";
 // import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 // import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
+import { GiRank3 } from "react-icons/gi";
 import {
   // AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiFillEdit,
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
@@ -98,7 +99,17 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> RANKS
+                <GiRank3 style={{ marginBottom: "2px" }} /> RANKS
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/reviews"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiFillEdit style={{ marginBottom: "2px" }} /> REVIEWS
               </Nav.Link>
             </Nav.Item>
           </Nav>
