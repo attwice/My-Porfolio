@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9f252782.chunk.css",
-    "main.js": "/static/js/main.addad3a4.chunk.js",
-    "main.js.map": "/static/js/main.addad3a4.chunk.js.map",
+    "main.js": "/static/js/main.d7c16eb6.chunk.js",
+    "main.js.map": "/static/js/main.d7c16eb6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a9ff4542.js",
     "runtime-main.js.map": "/static/js/runtime-main.a9ff4542.js.map",
     "static/css/2.f66758e0.chunk.css": "/static/css/2.f66758e0.chunk.css",
@@ -14,9 +14,9 @@
     "static/css/2.f66758e0.chunk.css.map": "/static/css/2.f66758e0.chunk.css.map",
     "static/css/main.9f252782.chunk.css.map": "/static/css/main.9f252782.chunk.css.map",
     "static/js/2.704772e0.chunk.js.LICENSE.txt": "/static/js/2.704772e0.chunk.js.LICENSE.txt",
-    "static/media/Bryan.9f31031e.pdf": "/static/media/Bryan.9f31031e.pdf",
+    "static/media/Bryan.1302dfed.pdf": "/static/media/Bryan.1302dfed.pdf",
     "static/media/about.4624d6e8.webp": "/static/media/about.4624d6e8.webp",
-    "static/media/avatar.f94eacef.webp": "/static/media/avatar.f94eacef.webp",
+    "static/media/avatar.6aa8848f.webp": "/static/media/avatar.6aa8848f.webp",
     "static/media/logo.246e52d1.webp": "/static/media/logo.246e52d1.webp",
     "static/media/style.css": "/static/media/pre.d180e792.svg"
   },
@@ -25,6 +25,6 @@
     "static/css/2.f66758e0.chunk.css",
     "static/js/2.704772e0.chunk.js",
     "static/css/main.9f252782.chunk.css",
-    "static/js/main.addad3a4.chunk.js"
+    "static/js/main.d7c16eb6.chunk.js"
   ]
 }
