@@ -1,3 +1,10 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+alokstevens@gmail.com	
+johnstevens1108@gmail.com
+101381332  bryc@n2020
+507439700
+
+bruicanlas@gmail.com
+bryc@n@2021
